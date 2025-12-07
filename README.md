@@ -27,10 +27,8 @@ To initialize a local development environment for SuperSplat, ensure you have [N
 
 4. Open a web browser tab and make sure network caching is disabled on the network tab and the other application caches are clear:
 
-   - On Safari you can use `Cmd+Option+e` or Develop->Empty Caches.
    - On Chrome ensure the options "Update on reload" and "Bypass for network" are enabled in the Application->Service workers tab:
-
-   <img width="846" alt="Screenshot 2025-04-25 at 16 53 37" src="https://github.com/user-attachments/assets/888bac6c-25c1-4813-b5b6-4beecf437ac9" />
+   <img width="739" height="378" alt="Screenshot 2025-12-07 142119" src="https://github.com/user-attachments/assets/a6310e5f-7cb5-4cb6-be2b-7aa1588c618d" />
 
 5. Navigate to `http://localhost:3000`
 
