@@ -12,7 +12,8 @@ Used for post performance optimization. When the gaussian splats have very low o
 - Remove: Removes all points with opacity lower than the threshold from current selection
 
 ![OpacitySelection](https://github.com/user-attachments/assets/790d12bf-b0d0-429d-b4c3-1995fdd3b7ea)
-<img width="1032" height="558" alt="opacityPruned" src="https://github.com/user-attachments/assets/e43fa470-1eb2-488a-8b41-06726b8d25b9" />
+<img width="657" height="352" alt="opacityPruned" src="https://github.com/user-attachments/assets/ef964f24-d279-459d-8f26-0bfd2d2a0ec9" />
+
 
 
 ### *Size Select*
