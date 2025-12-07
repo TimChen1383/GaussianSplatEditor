@@ -4,12 +4,7 @@ Forked from SuperSplat. The Gaussian Splat Editor is a free and open source tool
 
 ## Features
 (If the new features does not pop up, make sure to clear the browser's cache.)
-### Opacity Select ! text in orange
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+### Opacity Select This is <span style="color: red;">red text</span>.
 Used for post performance optimization. When the gaussian splats have very low opacity vlaue, they are usually barely visible in the scene. Prune the low opacity gaussian splats can increase the scene performance and lower the file size.
 - Threshold: Numeric input. The gaussian splats which has the opacity value lower than this threshold will be selected
 - Select: Selects all points with opacity lower than the threshold
