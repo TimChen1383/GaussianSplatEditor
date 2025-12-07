@@ -2,7 +2,7 @@
 
 Forked from SuperSplat. The Gaussian Splat Editor is a free and open source tool for inspecting, editing, optimizing and publishing 3D Gaussian Splats. It is built on web technologies and runs in the browser.
 
-## Features
+## Additional Features
 (If the new features does not pop up, make sure to clear your browser's cache.)
 ###  *Opacity Select* 
 Used for post performance optimization. When the gaussian splats have very low opacity vlaue, they are usually barely visible in the scene. Prune the low opacity gaussian splats can increase the scene performance and lower the file size.
